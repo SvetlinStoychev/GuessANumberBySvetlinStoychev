@@ -59,11 +59,12 @@ public class GuessANumber {
             } else if (playerInput.equals("n") || playerInput.equals("N")) {
                 break;
             } else {
+                System.out.println();
                 System.out.printf("%s is invalid command! Expected command is \"Y\" or \"N\"", playerInput);
+                break;
             }
         }
 
-        System.out.println();
         System.out.println("good bye!");
     }
 }
