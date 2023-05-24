@@ -1,8 +1,13 @@
 # Guess a Number
 
 This is a simple Java console-based game where the player tries to guess a randomly generated number between 1 and 100. The player will receive feedback on whether their guess is too high or too low until they guess the correct number.
-Instructions:
+1. Instructions:
+ 
+    1. Open this link: https://replit.com/@SvetlinStoychev/GuessANumber
+    2. Click on play button
+    3. Enjoy the game
 
+2. Instructions:
     1. Clone the repository or download the source code files.
     2. Open the project in your Java development environment.
     3. Compile and run the GuessANumber class.
