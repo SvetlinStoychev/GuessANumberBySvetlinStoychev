@@ -31,3 +31,11 @@ This project is licensed under the MIT License.
 Acknowledgments
 
 This project was created as a learning exercise and is inspired by the classic number-guessing game.
+
+## Screenshot
+
+![1](https://github.com/SvetlinStoychev/GuessANumberBySvetlinStoychev/assets/133974226/d871cab0-d7a8-4143-b8c9-8e59bd2fb2dc)
+![2](https://github.com/SvetlinStoychev/GuessANumberBySvetlinStoychev/assets/133974226/ec5d7559-da13-49b9-8d1c-1570a64f0fb4)
+![3](https://github.com/SvetlinStoychev/GuessANumberBySvetlinStoychev/assets/133974226/9876eb20-6053-43a1-9226-4c3d02b44c67)
+![4](https://github.com/SvetlinStoychev/GuessANumberBySvetlinStoychev/assets/133974226/23ef9af2-7812-4c32-9bc0-3999f3715c99)
+
