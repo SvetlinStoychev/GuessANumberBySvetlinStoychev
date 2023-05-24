@@ -60,7 +60,7 @@ public class GuessANumber {
                 break;
             } else {
                 System.out.println();
-                System.out.printf("%s is invalid command! Expected command is \"Y\" or \"N\"", playerInput);
+                System.out.printf("%s is invalid command! Expected command is \"Y\" or \"N\"%n", playerInput);
                 break;
             }
         }
